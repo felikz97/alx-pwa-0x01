@@ -28,6 +28,6 @@
     "tailwindcss": "^4",
     "typescript": "^5",
     "webpack": "^5.94.0",
-    "webpack": "^5.99.9"
+    
   }
 }
